@@ -8,12 +8,7 @@
     My name is Hamza Aghbalou, I'm a Full Stack Designer and Developer based in Ouarzazate, Morocco. I'm very interested in web Technologies and problem solving, with a growing     love for continuous learning, and a wanting to help the community
   </samp>
   <br/>
-  <br/>
-  <br/>
-</p>
 
-
----
 
 
 ### Technologies & Tools Preference
