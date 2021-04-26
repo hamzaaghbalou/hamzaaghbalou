@@ -28,7 +28,6 @@
  <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
  <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
  <img src="https://img.shields.io/badge/-Webpack-F7F7F7?style=flat&logo=webpack&logoColor=2C74BC">
- <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=FFFFFF">
@@ -43,9 +42,3 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hamzaaghbalou&show_icons=true&count_private=true)
 
 <a href="https://stackoverflow.com/users/11379081/hamza-aghbalou"><img src="https://stackoverflow.com/users/flair/11379081.png" width="208" height="58" alt="profile for Hamza Aghbalou at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hamza Aghbalou at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-<!--
-<p align="right">
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaaghbalou&show_icons=true&" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hamzaaghbalou&theme=tokyonight&show_icons=true" />
-</p>
--->
