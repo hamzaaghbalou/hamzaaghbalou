@@ -17,7 +17,6 @@
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF">
  <img src="https://img.shields.io/badge/-PHP-7377AD?style=flat&logo=php&logoColor=FFFFFF">
  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
- <img src="https://img.shields.io/badge/-Angular-F7F7F7?style=flat&logo=angular&logoColor=BD002E">
  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
  <img src="https://img.shields.io/badge/-Redux-F7F7F7?style=flat&logo=redux&logoColor=7248B6">
  <img src="https://img.shields.io/badge/-Next.js-787878?style=flat&logo=Next.js&logoColor=F7F7F7">
