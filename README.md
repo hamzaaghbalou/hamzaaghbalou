@@ -35,5 +35,3 @@
 
 ### My stats & badges
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hamzaaghbalou&show_icons=true&count_private=true)
-
-<a href="https://stackoverflow.com/users/11379081/hamza-aghbalou"><img src="https://stackoverflow.com/users/flair/11379081.png" width="208" height="58" alt="profile for Hamza Aghbalou at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hamza Aghbalou at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
