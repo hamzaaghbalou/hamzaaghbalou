@@ -5,7 +5,7 @@
 [![GitHub hamzaaghbalou](https://img.shields.io/github/followers/hamzaaghbalou?label=follow&style=social)](https://github.com/hamzaaghbalou)
 <p align="center" >
   <samp>
-    My name is Hamza Aghbalou, I'm a Full Stack Web Developer based in Ouarzazate, Morocco. I'm very interested in web technologies and problem solving, with a growing     love for continuous learning, and a wanting to help the community.
+    My name is Hamza Aghbalou, I'm a Front-End Developer with a great passion for UI effects, animations, and creating dynamic and intuitive user experiences, also very interested in web technologies and problem-solving, with a growing love for continuous learning.
   </samp>
   
 ---
