@@ -18,11 +18,11 @@
  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
  <img src="https://img.shields.io/badge/-Redux-F7F7F7?style=flat&logo=redux&logoColor=7248B6">
  <img src="https://img.shields.io/badge/-Next.js-787878?style=flat&logo=Next.js&logoColor=F7F7F7">
+ <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=777BB3">
  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=FFFFFF">
  <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
- <img src="https://img.shields.io/badge/-PHP-777BB3?style=flat&logo=php&logoColor=000000">
  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=FFFFFF">
  <img src="http://img.shields.io/badge/-Adobe Photoshop-2FA3F7?style=flat&logo=adobe-photoshop&logoColor=001D34">
