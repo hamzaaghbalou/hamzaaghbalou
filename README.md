@@ -5,7 +5,7 @@
 [![GitHub hamzaaghbalou](https://img.shields.io/github/followers/hamzaaghbalou?label=follow&style=social)](https://github.com/hamzaaghbalou)
 <p align="center" >
   <samp>
-    My name is Hamza Aghbalou, I'm a Front End Developer with experience building web applications. I specialize in JavaScript and have professional experience working with Reactjs. I also have experience working with Nodejs and PHP. Take a look at my work or get in touch!
+    My name is Hamza Aghbalou, I'm a Front End Developer with experience building web applications. I specialize in JavaScript and have professional experience working with Reactjs. I also have experience working with Nodejs and PHP.
   </samp>
   
 ---
@@ -22,7 +22,7 @@
  <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
- <img src="https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=java&logoColor=1676BA">
+ <img src="https://img.shields.io/badge/-PHP-777BB3?style=flat&logo=php&logoColor=000000">
  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=FFFFFF">
  <img src="http://img.shields.io/badge/-Adobe Photoshop-2FA3F7?style=flat&logo=adobe-photoshop&logoColor=001D34">
