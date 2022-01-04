@@ -28,8 +28,3 @@
  <img src="http://img.shields.io/badge/-Adobe Photoshop-2FA3F7?style=flat&logo=adobe-photoshop&logoColor=001D34">
  <img src="http://img.shields.io/badge/-Adobe Illustrator-F79500?style=flat&logo=adobe-illustrator&logoColor=310000">
  <img src="http://img.shields.io/badge/-Adobe XD-F71DBA?style=flat&logo=adobe-xd&logoColor=2C001E">
-
----
-
-### My stats & badges
-![Github stats](https://github-readme-stats.vercel.app/api?username=hamzaaghbalou&show_icons=true&count_private=true)
