@@ -5,7 +5,7 @@
 [![GitHub hamzaaghbalou](https://img.shields.io/github/followers/hamzaaghbalou?label=follow&style=social)](https://github.com/hamzaaghbalou)
 <p align="center" >
   <samp>
-    My name is Hamza Aghbalou, I'm a Front End Developer with experience building web applications. I specialize in JavaScript and have professional experience working with Reactjs. I also have experience working with Nodejs and PHP.
+    My name is Hamza Aghbalou, I'm a Front-End Developer with experience building web applications. I specialize in JavaScript and have professional experience working with Reactjs. I also have experience working with Nodejs and PHP.
   </samp>
   
 ---
