@@ -24,6 +24,3 @@
  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=FFFFFF">
- <img src="http://img.shields.io/badge/-Adobe Photoshop-2FA3F7?style=flat&logo=adobe-photoshop&logoColor=001D34">
- <img src="http://img.shields.io/badge/-Adobe Illustrator-F79500?style=flat&logo=adobe-illustrator&logoColor=310000">
- <img src="http://img.shields.io/badge/-Adobe XD-F71DBA?style=flat&logo=adobe-xd&logoColor=2C001E">
